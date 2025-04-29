@@ -33,7 +33,7 @@ export default function Home() {
               Contact
             </a>
           </nav>
-          <button className="md:hidden p-2 rounded-md hover:bg-gray-100" aria-label="Toggle menu">
+          {/* <button className="md:hidden p-2 rounded-md hover:bg-gray-100" aria-label="Toggle menu">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="24"
@@ -50,7 +50,7 @@ export default function Home() {
               <line x1="4" x2="20" y1="6" y2="6" />
               <line x1="4" x2="20" y1="18" y2="18" />
             </svg>
-          </button>
+          </button> */}
         </div>
       </header>
 
